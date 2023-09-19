@@ -1,0 +1,7 @@
+{
+	"modUrl": "https://github.com/jack-indaboks/unlimited-barbarians",
+	"author": "jack_indaboks",
+	"constants": {
+		"maxXPfromBarbarians": 10000
+	}
+}
